@@ -97,7 +97,7 @@ const profile = {
     title: "Hola, soy Aldair Borbonio",
     bio: "Cuento con la experiencia en el desarrollo de plataformas backend, APIs y sistemas distribuidos. Diseño y construyo soluciones completas: desde la lógica del negocio y la seguridad, hasta la integración con interfaces modernas y servicios en tiempo real. Disfruto trabajar en proyectos donde la arquitectura, el rendimiento y la escalabilidad son clave, siempre buscando código claro, soluciones prácticas y sistemas que realmente funcionen en producción.",
     primary: {
-        cv: "https://drive.google.com/file/d/1QQYOiKcLTsl3MXNm4t1KJyQNNnmjGdxX/view?usp=drive_link",
+        cv: "https://drive.google.com/file/d/1Fx8hbMd4RlzD3H2CppngaAhgKITe9ckT/view?usp=sharing",
         contacto: "https://wa.me/qr/G7XESTDOJC64N1",
     },
 }
